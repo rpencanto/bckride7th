@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package com.encanto.backride;
 
 import org.junit.Test;
 

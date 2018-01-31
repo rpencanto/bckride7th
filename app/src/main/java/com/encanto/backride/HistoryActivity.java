@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package com.encanto.backride;
 
 import android.annotation.SuppressLint;
 import android.support.v7.app.AppCompatActivity;
@@ -15,8 +15,8 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.simcoder.uber.historyRecyclerView.HistoryAdapter;
-import com.simcoder.uber.historyRecyclerView.HistoryObject;
+import com.encanto.backride.historyRecyclerView.HistoryAdapter;
+import com.encanto.backride.historyRecyclerView.HistoryObject;
 
 import java.util.ArrayList;
 import java.util.Calendar;

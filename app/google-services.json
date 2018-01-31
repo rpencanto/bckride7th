@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860910849180",
+    "firebase_url": "https://dragonfly-8818b.firebaseio.com",
+    "project_id": "dragonfly-8818b",
+    "storage_bucket": "dragonfly-8818b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860910849180:android:dd7a1e94f13592b2",
+        "android_client_info": {
+          "package_name": "com.encanto.backride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860910849180-6dp91u3kbqckh54a0dehd0nq3j82r4nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encanto.backride",
+            "certificate_hash": "040f9be2e797b5a12534bce8f61ef6ec6753b038"
+          }
+        },
+        {
+          "client_id": "860910849180-br7bse7n2qv4mo2kn4ko8n9fv07bljie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5j7cjVP9bewV8yWbsTIexhov3JGrGKoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860910849180-br7bse7n2qv4mo2kn4ko8n9fv07bljie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

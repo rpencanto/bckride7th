@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package com.encanto.backride;
 
 import android.Manifest;
 import android.content.Intent;
